@@ -1,0 +1,20 @@
+C:\Users\Helen\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Helen\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HuffmanCoding.Form1.resources
+C:\Users\Helen\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Helen\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Helen\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Helen\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Helen\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Helen\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Helen\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Helen\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Helen\Desktop\学习使我快乐\STUDY\论文、作业及实验报告\交互式\五\huffman coding\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Helen\Desktop\学习使我快乐\STUDY\论文、作业及实验报告\交互式\五\huffman coding\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Helen\Desktop\学习使我快乐\STUDY\论文、作业及实验报告\交互式\五\huffman coding\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Helen\Desktop\学习使我快乐\STUDY\论文、作业及实验报告\交互式\五\huffman coding\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Helen\Desktop\学习使我快乐\STUDY\论文、作业及实验报告\交互式\五\huffman coding\WindowsFormsApp1\obj\Debug\HuffmanCoding.Form1.resources
+C:\Users\Helen\Desktop\学习使我快乐\STUDY\论文、作业及实验报告\交互式\五\huffman coding\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Helen\Desktop\学习使我快乐\STUDY\论文、作业及实验报告\交互式\五\huffman coding\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Helen\Desktop\学习使我快乐\STUDY\论文、作业及实验报告\交互式\五\huffman coding\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Helen\Desktop\学习使我快乐\STUDY\论文、作业及实验报告\交互式\五\huffman coding\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Helen\Desktop\学习使我快乐\STUDY\论文、作业及实验报告\交互式\五\huffman coding\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
